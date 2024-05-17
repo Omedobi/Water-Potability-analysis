@@ -1,3 +1,5 @@
+![water-quality]()
+
 # Water Quality Analysis and Classification
 This repository contains code for analyzing water quality data and performing classification tasks based on water potability. The code utilizes various Python libraries, including matplotlib, pandas, seaborn, numpy, scipy, sklearn, and pycaret.
 
